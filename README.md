@@ -20,4 +20,4 @@ Set annualInterestRate to 1%, then calculate the monthly payment for each loan f
 Next, set the annualInterestRate to 5%, and output the same information again.  Make sure your dollar amounts are displayed to two decimal places.
 Put the code to test the class in the main method of the LoanAccount Class. The output of your program should look like the following:
 
-loanaccountoutput.png
+![loanaccountoutput](https://user-images.githubusercontent.com/81172033/191329094-4493b626-a9e2-4996-9377-bd3695c33828.png)
