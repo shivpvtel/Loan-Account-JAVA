@@ -20,4 +20,4 @@ Set annualInterestRate to 1%, then calculate the monthly payment for each loan f
 Next, set the annualInterestRate to 5%, and output the same information again.  Make sure your dollar amounts are displayed to two decimal places.
 Put the code to test the class in the main method of the LoanAccount Class. The output of your program should look like the following:
 
-[loanaccountoutput.png](https://github.com/shivpvtel/Loan-Account-JAVA/blob/7d01124483570075ff2477c8dcdf9c47a08638b6/loanaccountoutput.png)
+loanaccountoutput.png
