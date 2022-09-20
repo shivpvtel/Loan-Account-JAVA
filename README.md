@@ -1,6 +1,6 @@
 # Loan-Account-JAVA
 
-**Loan Account Class
+**Loan Account Class**
 
 Create class LoanAccount. 
 Use a static variable annualInterestRate to store the annual interest rate for all account holders. 
